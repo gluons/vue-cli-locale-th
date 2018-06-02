@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-locale-th",
+  "version": "0.0.1",
+  "description": "Thai localization for @vue/cli.",
+  "main": "./locales/th.json",
+  "unpkg": "./locales/th.json",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluons/vue-cli-locale-th.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue-cli",
+    "locale"
+  ],
+  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gluons/vue-cli-locale-th/issues"
+  },
+  "homepage": "https://github.com/gluons/vue-cli-locale-th"
+}
